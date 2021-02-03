@@ -1,0 +1,19 @@
+{
+	"name":"Shopee",
+	"link":"https://shopee.vn/%C3%81o-Gile-vi%E1%BB%81n-2-s%E1%BB%8Dc-TR%E1%BA%AENG-%C4%90EN-%F0%9F%8E%B6-Nam-n%E1%BB%AF-unisex-FREESHIP-99K-%E2%9D%A4%EF%B8%8F-i.27228264.5610753890",
+	"number_crawl_page":1,
+	"wait_page_load":"._1gkBDw",
+	"all_product_in_page":".col-xs-2-4 ,.shopee-search-item-result__item",
+	"title":".qaNIZv",
+	"rating":"._3Oj5_n ,._2z6cUg",
+	"price":"._3n5NQx",
+	"description":"._2u0jt9 >span",
+	"check_have_comment":".shopee-button-solid,.shopee-button-solid--primary ",
+	"div_comment_and_star":".shopee-product-rating__main",
+	"comment":".shopee-product-rating__content",
+	"star":".icon-rating-solid--active,.icon-rating-solid",
+	"next_comment_page":".shopee-icon-button--right",
+	"elasticsearch":"localhost:9200",
+	"index_name":"index_maytinhlaptop",
+	"type":"MayTinhLaptop"
+}
